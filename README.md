@@ -18,8 +18,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-@@ -44,10 +44,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
-
 # Tableau
 
 | Project Link | Project Description | Project Link |
