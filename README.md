@@ -1,5 +1,5 @@
 # 🗺 Kevin Wong's Portfolio
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. This code repository contains examples of SQL, Tableau, and Excel projects I have worked on to expand my knowledge and continue my Data Analysis adventure! Please take a look and feel free to connect with me at any time email: Kevin.Wong0415@gmail.com
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Tableau](#tableau)
