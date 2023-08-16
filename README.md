@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Tableau
 
-| Project Link | Project Description | Project Link |
+
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🌉 [San Francisco Crime](https://github.com/KevinWongSF/Tableau-Projects/tree/main/San%20Francisco%20Crime) | Cleaned and transformed data on crime in San Francisco. Visualized key insights using Tableau, including a geographical visual for crime frequency, the chance for a crime to happen on a day of the week, and the percentage of crime by category. | [Link](https://public.tableau.com/app/profile/kevin.wong5782/viz/SanFranciscoCrime_16912854144130/Dashboard1) |
